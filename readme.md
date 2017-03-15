@@ -1,5 +1,7 @@
 ## Node.js-Based RESTFul services for Employee Directory Sample App ##
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/manikandants/i3d_server_side.svg)](https://greenkeeper.io/)
+
 Built with the Node.js and the [Express framework](http://expressjs.com/).
 
 The client application is available in [this repository](https://github.com/ccoenraets/directory-backbone-bootstrap)
